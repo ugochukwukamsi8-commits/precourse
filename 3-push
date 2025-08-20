@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# < comment > a file that contains a command to the remote repository 
+git push 
