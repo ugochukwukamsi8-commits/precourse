@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# a file that contains a command to branch a remote repository
+git branch < branch name > 
