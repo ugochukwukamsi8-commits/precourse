@@ -1,0 +1,5 @@
+#!/usr/bin/sh
+# a file that contains git configuration command
+
+git config --global user.name "Your Name"
+git config --global user.
