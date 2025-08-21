@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# a file that contains a command to update a local repository
+git pull
